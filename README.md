@@ -2,7 +2,7 @@
 
 # Hello, I am Farid 👋
 
-**Computer Engineering Student · AI Developer · Engineering Intern**
+**Computer Engineering Student · AI Builder · Engineering Intern**
 
 *Developing robust, AI-powered solutions for real-world applications.*
 
